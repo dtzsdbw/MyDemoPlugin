@@ -1,0 +1,13 @@
+{
+  "nativePlugins":[
+    {
+      "hooksClass":"",
+      "plugins":[
+        {
+          "type":"module",
+          "name":"Test-Plugin",
+          "class":"com.test.testplugin.TestModule"
+        }
+      ]
+    }
+  ]}
